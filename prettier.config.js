@@ -1,6 +1,11 @@
-module.exports = {
-  arrowParens: 'always',
+const options = {
+  arrowParens: 'avoid',
   singleQuote: true,
-  tabWidth: 2,
+  bracketSpacing: true,
+  endOfLine: 'lf',
   semi: false,
+  tabWidth: 2,
+  trailingComma: 'none'
 }
+
+module.exports = options
