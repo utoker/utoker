@@ -126,7 +126,7 @@ I did this project to implement React-Redux in a TypeScript environment and use 
 
   <br>
   <p align="center">
-  <img src="./dist/github-snake.svg" alt="snake"></center>
+  <img src="./public/github-user-contribution.svg" alt="snake"></center>
 </p>
 
 <hr/>
