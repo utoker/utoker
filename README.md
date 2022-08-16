@@ -105,7 +105,6 @@ I did this project to implement React-Redux in a TypeScript environment and use 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=utoker&theme=dracula" alt="utoker" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utoker&theme=dracula&layout=compact&count_private=true" alt="utoker" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=utoker&theme=dracula&background=DD2727)](https://git.io/streak-stats)
 <br>
 <hr/>
 
