@@ -14,7 +14,9 @@ I'm a Full-Stack Developer based in New York 🗽, I am passionate about Full-St
 <br />
 <a target="_blank" href="https://github.com/utoker/food-check/tree/main/">
 <div align="center">
-<img src="./public/food-check.gif" alt="food check app" />
+<a target="_blank" href="https://github.com/utoker/food-check/tree/main/">
+    <img src="./public/food-check.gif" alt="food check app" />
+</a>
 </div>
 </a>
 <br />
