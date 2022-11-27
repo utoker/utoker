@@ -9,12 +9,35 @@ I'm a Full-Stack Developer based in New York 🗽, I am passionate about Full-St
 
 <table bordercolor="#66b2b2">
   <tr>
+  <td width="50%" valign="top">
+<h3 align="center">Food Check App</h3>
+<br />
+<a target="_blank" href="https://github.com/utoker/food-check/tree/main/">
+<div align="center">
+<img src="./public/food-check.gif" width="40%"  alt="food check app" />
+</div>
+</a>
+<br />
+<p align="center">
+
+  <a href="https://github.com/utoker/food-check" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <!-- <a href="https://utoker.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
+  </a> -->
+      </p>
+        <p><strong>JavaScript / React Native</strong></p>
+        <p>Food Check is a simple barcode grocery scanner that lets you quickly discover a food's ingredient information.</p>
+    </td> 
     <td width="50%" valign="top">
       <h3 align="center">Reqq.cc Link Shortener</h3>
         <br />
+        <div align="center">
         <a target="_blank" href="https://reqq.cc">
-            <img src="./public/reqq-1000x600.png" alt="reqq.cc link shortener"/>
+            <img src="./public/reqq.gif" alt="reqq.cc link shortener"/>
         </a>
+        </div>
         <br />
         <p align="center">
           
@@ -25,38 +48,22 @@ I'm a Full-Stack Developer based in New York 🗽, I am passionate about Full-St
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
       </p>
-        <p><strong>TypeScript/React/SQL</strong> - The reqq.cc is an easy-to-use link shortening service with an option to use custom URLs.
+        <p><strong>TypeScript / React / MySQL</strong></p> 
+        <p>The reqq.cc is an easy-to-use link shortening service with an option to use custom URLs.
 
 I developed this web application as a free alternative to paid services like bit.ly or tinyurl.com.</p>
 
 </td>
-<td width="50%" valign="top">
-<h3 align="center">Umut Toker Homepage</h3>
-<br />
-<a target="_blank" href="https://utoker.com/">
-<img src="./public/utoker-homepage-1000x600.png" width="100%"  alt="utoker homepage"/>
-</a>
-<br />
-<p align="center">
-
-  <a href="https://github.com/utoker/utoker-homepage" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://utoker.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
-  </a>
-      </p>
-        <p><strong>JavaScript/React/Chakra UI</strong> - My personal portfolio website</p>
-    </td> 
   </tr>
-  
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">FoodData App</h3>
+      <h3 align="center">Food Data</h3>
         <br />
+        <div align="center">
       <a target="_blank" href="https://food-data-app.vercel.app/">
-            <img src="./public/fooddata-1000x600.png" width="100%"  alt="food data app"/>
+            <img src="./public/food-data.gif" alt="food data app"/>
         </a>
+        </div>
         <br />
         <p align="center">
           
@@ -67,9 +74,8 @@ I developed this web application as a free alternative to paid services like bit
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
       </p>
-        <p><strong>JavaScript/React/Chakra UI</strong> - FoodData App is a web app for getting nutrient profile data of requested food from the United States Department of Agriculture's Food Database with Rest API.
-
-<p>
+        <p><strong>JavaScript / React / Next.Js</strong></p> 
+        <p>Food Data is a web app for getting nutrient profile data of requested food from the United States Department of Agriculture's Food Database with Rest API.</p>
 
 </td>
 
@@ -89,14 +95,13 @@ I developed this web application as a free alternative to paid services like bit
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
       </p>
-        <p><strong>TypeScript/Redux/React</strong> - A web app for searching node packages with the implementation of npms.io API for the TypeScript programming environment. More information about npms.io and its API can be found at their GitHub repository.
+        <p><strong>TypeScript / Redux / React</strong></p>
+        <p> A web app for searching node packages with the implementation of npms.io API for the TypeScript programming environment. More information about npms.io and its API can be found at their GitHub repository.
 
 I did this project to implement React-Redux in a TypeScript environment and use it as a boilerplate for my following projects.</p>
 
 </td>
-
   </tr>
-	
 </table>
 
 <hr/>
