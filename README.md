@@ -93,7 +93,7 @@ I developed this web application as a free alternative to paid services like bit
   <a href="https://github.com/utoker/search-npm" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://search-npm.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
       </p>
