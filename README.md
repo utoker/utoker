@@ -1,7 +1,8 @@
 <h1 align="center">Hi , I'm Umut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h4 align="center">
-I'm a Full-Stack Developer based in New York 🗽, I am passionate about Full-Stack Web Development, <br /> I like to create web applications that are responsive, powerful and accessible to all.
+I'm a front end React developer based in New York 🗽, I am passionate about learning more about TypeScript and JavaScript. <br /> I built 4 react web apps, and a react native mobile app. 
+In these projects, I used typescript, javascript, react, next.js, react native, and REST API. 
 </h4>
 <br>
 
