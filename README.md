@@ -1,14 +1,40 @@
 <h1 align="center">Hi , I'm Umut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h4 align="center">
-I'm a front end React developer based in New York 🗽, I am passionate about learning more about TypeScript and JavaScript. <br /> I built 4 react web apps, and a react native mobile app. 
-In these projects, I used typescript, javascript, react, next.js, react native, and REST API. 
+I'm a React developer based in New York 🗽, I have a passion for building web applications and I love to learn new technologies. <br />
 </h4>
 <br>
 
-<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2" align="center">
+  <thead>
+  <h1 align="center">Projects</h1>
+  </thead>
+  <tbody>
+  <tr>
+  <td colspan="2">
+  <h2 align="center">Albert Solver</h3>
+<br />
+<a target="_blank" href="https://github.com/utoker/albert-solver/tree/main/">
+<div align="center">
+<a target="_blank" href="https://github.com/utoker/albert-solver/tree/main/">
+    <img src="./public/albert.gif" alt="Albert Solver" />
+</a>
+</div>
+</a>
+<br />
+<p align="center">
 
-<table bordercolor="#66b2b2">
+  <a href="https://github.com/utoker/albert-solver" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <!-- <a href="https://utoker.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
+  </a> -->
+      </p>
+        <p><strong>TypeScript / Next / Prisma / NextAuth / NextUI / SWR / Stripe</strong></p>
+        <p>This project aims to provide a comprehensive solution for expert assistance with essays and homework using cutting-edge AI technology, powered by OpenAI's GPT-3 language model. The AI model is integrated with a web application built using modern web technologies such as TypeScript, Next.js, NextAuth.js, NextUI, Prisma, SWR, React and Stripe for handling subscriptions.</p>
+  </td>
+  </tr>
   <tr>
   <td width="50%" valign="top">
 <h3 align="center">Food Check App</h3>
@@ -51,7 +77,7 @@ In these projects, I used typescript, javascript, react, next.js, react native, 
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
   </a>
       </p>
-        <p><strong>TypeScript / React / MySQL</strong></p> 
+        <p><strong>TypeScript / Next.js / Prisma</strong></p> 
         <p>The reqq.cc is an easy-to-use link shortening service with an option to use custom URLs.
 
 I developed this web application as a free alternative to paid services like bit.ly or tinyurl.com.</p>
@@ -105,6 +131,7 @@ I did this project to implement React-Redux in a TypeScript environment and use 
 
 </td>
   </tr>
+  <tbody>
 </table>
 
 <hr/>
