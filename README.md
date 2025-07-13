@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Umut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h4 align="center">
-I'm a React developer based in New York 🗽, I have a passion for building web applications and I love to learn new technologies. <br />
+I'm a React developer based in Tampa, FL, I have a passion for building web applications and I love to learn new technologies. <br />
 </h4>
 <br>
 
@@ -12,27 +12,27 @@ I'm a React developer based in New York 🗽, I have a passion for building web 
   <tbody>
   <tr>
   <td colspan="2">
-  <h2 align="center">Albert Solver</h3>
+  <h2 align="center">Reqq.cc</h3>
 <br />
-<a target="_blank" href="https://github.com/utoker/albert-solver/tree/main/">
+<a target="_blank" href="https://github.com/utoker/link-shortener/tree/main/">
 <div align="center">
-<a target="_blank" href="https://github.com/utoker/albert-solver/tree/main/">
-    <img src="./public/albert.gif" alt="Albert Solver" />
+<a target="_blank" href="https://github.com/utoker/link-shortener/tree/main/">
+    <img src="./public/albert.gif" alt="Reqq.cc" />
 </a>
 </div>
 </a>
 <br />
 <p align="center">
 
-  <a href="https://github.com/utoker/albert-solver" target="_blank">
+  <a href="https://github.com/utoker/Reqq.cc" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <!-- <a href="https://utoker.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
   </a> -->
       </p>
-        <p><strong>TypeScript / Next / Prisma / NextAuth / NextUI / SWR / Stripe</strong></p>
-        <p>This project aims to provide a comprehensive solution for expert assistance with essays and homework using cutting-edge AI technology, powered by OpenAI's GPT-3 language model. The AI model is integrated with a web application built using modern web technologies such as TypeScript, Next.js, NextAuth.js, NextUI, Prisma, SWR, React and Stripe for handling subscriptions.</p>
+        <p><strong>TypeScript / Next.js / React / Supabase</strong></p>
+        <p>Reqq .cc is a privacy‑minded, open‑source URL shortener built with the bleeding‑edge Next JS 15 Server Actions, Edge Middleware, and Supabase Postgres.</p>
   </td>
   </tr>
   <tr>
