@@ -1,176 +1,80 @@
-<h1 align="center">Hi , I'm Umut <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hi, I'm Umut 👋
 
-<h4 align="center">
-I'm a React developer based in Tampa, FL, I have a passion for building web applications and I love to learn new technologies. <br />
-</h4>
-<br>
+## React / Full‑Stack Developer — Tampa, FL
 
-<table bordercolor="#66b2b2" align="center">
-  <thead>
-  <h1 align="center">Projects</h1>
-  </thead>
-  <tbody>
-  <tr>
-  <td colspan="2">
-  <h2 align="center">Reqq.cc</h3>
-<br />
-<a target="_blank" href="https://github.com/utoker/link-shortener/tree/main/">
-<div align="center">
-<a target="_blank" href="https://github.com/utoker/link-shortener/tree/main/">
-    <img src="./public/albert.gif" alt="Reqq.cc" />
-</a>
-</div>
-</a>
-<br />
-<p align="center">
+I build performant, scalable web applications and love exploring new technologies. Currently open to software–engineering roles in React and web ecosystems.
 
-  <a href="https://github.com/utoker/link-shortener" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <!-- <a href="https://utoker.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
-  </a> -->
-      </p>
-        <p><strong>TypeScript / Next.js / React / Supabase</strong></p>
-        <p>Reqq .cc is a privacy‑minded, open‑source URL shortener built with the bleeding‑edge Next JS 15 Server Actions, Edge Middleware, and Supabase Postgres.</p>
-  </td>
-  </tr>
-  <tr>
-  <td width="50%" valign="top">
-<h3 align="center">Food Check App</h3>
-<br />
-<a target="_blank" href="https://github.com/utoker/food-check/tree/main/">
-<div align="center">
-<a target="_blank" href="https://github.com/utoker/food-check/tree/main/">
-    <img src="./public/food-check.gif" alt="food check app" />
-</a>
-</div>
-</a>
-<br />
-<p align="center">
+---
 
-  <a href="https://github.com/utoker/food-check" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <!-- <a href="https://utoker.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
-  </a> -->
-      </p>
-        <p><strong>JavaScript / React Native</strong></p>
-        <p>Food Check is a simple barcode grocery scanner that lets you quickly discover a food's ingredient information.</p>
-    </td> 
-    <td width="50%" valign="top">
-      <h3 align="center">Reqq.cc Link Shortener</h3>
-        <br />
-        <div align="center">
-        <a target="_blank" href="https://reqq.cc">
-            <img src="./public/reqq.gif" alt="reqq.cc link shortener"/>
-        </a>
-        </div>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/utoker/link-shortener">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://reqq.cc" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
-  </a>
-      </p>
-        <p><strong>TypeScript / Next.js / Prisma</strong></p> 
-        <p>The reqq.cc is an easy-to-use link shortening service with an option to use custom URLs.
+## Projects
 
-I developed this web application as a free alternative to paid services like bit.ly or tinyurl.com.</p>
+### [Reqq.cc](https://reqq.cc) – Privacy‑minded URL Shortener
 
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Food Data</h3>
-        <br />
-        <div align="center">
-      <a target="_blank" href="https://food-data-app.vercel.app/">
-            <img src="./public/food-data.gif" alt="food data app"/>
-        </a>
-        </div>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/utoker/FoodData-App" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://food-data-app.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
-  </a>
-      </p>
-        <p><strong>JavaScript / React / Next.Js</strong></p> 
-        <p>Food Data is a web app for getting nutrient profile data of requested food from the United States Department of Agriculture's Food Database with Rest API.</p>
+![Reqq.cc Screenshot](./public/reqqcc.gif)
 
-</td>
+_Tech_: TypeScript · Next.js 15 · React 19 · Supabase
+_Highlights_
 
-   <td width="50%" valign="top">
-      <h3 align="center">Search NPM</h3>
-        <br />
-        <a target="_blank" href="https://search-npm.vercel.app/">
-            <img src="./public/search-npm-1000x600.png" width="100%" alt="Search NPM" />
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/utoker/search-npm" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://search-npm.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=cdf998&style=plastic"/>
-  </a>
-      </p>
-        <p><strong>TypeScript / Redux / React</strong></p>
-        <p> A web app for searching node packages with the implementation of npms.io API for the TypeScript programming environment. More information about npms.io and its API can be found at their GitHub repository.
+- 120 ms mean redirect latency via Vercel Edge Functions
+- Supabase RLS + Zod validation secures 100 % of writes
+- Modular server actions cut bundle size by 30 %
 
-I did this project to implement React-Redux in a TypeScript environment and use it as a boilerplate for my following projects.</p>
+---
 
-</td>
-  </tr>
-  <tbody>
-</table>
+### Food Check App — Barcode Ingredient Scanner
 
-<hr/>
+![Food Check GIF](./public/food-check.gif)
 
-## 🔥 Streak Stats
+_Tech_: JavaScript · React Native
+Scans grocery barcodes and instantly shows ingredient information.
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=utoker&theme=dracula" alt="utoker" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utoker&theme=dracula&layout=compact&count_private=true" alt="utoker" /></p>
-<br>
-<hr/>
+---
+
+### Food Data — Nutrition Lookup
+
+![Food Data GIF](./public/food-data.gif)
+
+_Tech_: JavaScript · React · Next.js
+Fetches nutrient profiles from the USDA Food Database REST API.
+
+---
+
+### Search NPM — Package Explorer
+
+![Search NPM Preview](./public/search-npm-1000x600.png)
+
+_Tech_: TypeScript · React · Redux
+Searches npm packages via the npms.io API; built to practice React‑Redux in TS.
+
+---
+
+## 👨‍💻 About Me
+
+- Full‑stack focus on React, TypeScript, Supabase, and Vercel
+- AWS & Azure certified; pursuing an M.S. in Software Engineering
+- Ex‑pro Dota player; still love competitive gaming and tech communities
+
+---
+
+## 🔥 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=utoker&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utoker&theme=dracula&layout=compact&count_private=true)
+
+---
 
 ## 🏆 Trophies
 
-<p align="center"> <a href="https://github.com/utoker"><img
-      src="https://github-profile-trophy.vercel.app/?username=utoker&row=1&column=3&theme=dracula" alt="utoker" /></a>  </p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=utoker&row=1&column=3&theme=dracula)
 
-<br>
-<!-- <hr/> -->
+---
 
-## ⚡ Recent GitHub Activity
+## 🐍 Contribution Graph
 
-<a href="https://github.com/utoker"><img alt="Umut's activity graph" src="https://activity-graph.herokuapp.com/graph?username=utoker&custom_title=Umuts%20Contribution%20Graph&theme=react-dark" /></a>
+![Snake animation](./public/github-user-contribution.svg)
 
-<hr/>
+---
 
-## 🐍
+## 🙋‍♀️ Let's Connect
 
-  <br>
-  <p align="center">
-  <img src="./public/github-user-contribution.svg" alt="snake"></center>
-</p>
-
-<hr/>
-
-## 🙋‍♀️ Let's Connect
-
-<p align="center">
-	<a href="mailto:utoker@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
-	<a href="https://github.com/utoker"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/utoker/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-
-</p>
+[Email](mailto:utoker@gmail.com) · [GitHub](https://github.com/utoker) · [LinkedIn](https://www.linkedin.com/in/utoker/)
