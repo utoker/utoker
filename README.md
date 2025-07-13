@@ -24,7 +24,7 @@ I'm a React developer based in Tampa, FL, I have a passion for building web appl
 <br />
 <p align="center">
 
-  <a href="https://github.com/utoker/Reqq.cc" target="_blank">
+  <a href="https://github.com/utoker/link-shortener" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <!-- <a href="https://utoker.com/" target="_blank">
