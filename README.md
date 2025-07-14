@@ -15,7 +15,7 @@ I build performant, scalable web applications and love exploring new technologie
 _Tech_: TypeScript · Next.js 15 · React 19 · Supabase
 _Highlights_
 
-- 120 ms mean redirect latency via Vercel Edge Functions
+- 32 ms mean redirect latency via Vercel Edge Functions
 - Supabase RLS + Zod validation secures 100 % of writes
 - Modular server actions cut bundle size by 30 %
 
