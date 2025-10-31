@@ -12,6 +12,8 @@ My focus is on building high-impact, production-grade applications. Here are my 
 ### [ColdTrace](https://coldtrace.app/) | Real-time IoT Monitoring Platform
 A real-time IoT monitoring platform built with Next.js, GraphQL Subscriptions, Recharts, and Leaflet. Architected to handle over 10,000 updates per second for live temperature tracking, device mapping, and anomaly detection.
 
+![Coldtrace Screenshot](./public/coldtrace_eyecatch.png)
+
 _Tech_: Next.js, TypeScript, GraphQL (Subscriptions), Zustand, Recharts, Leaflet, PostgreSQL, Docker, Turborepo, shadcn/ui
 
 ---
