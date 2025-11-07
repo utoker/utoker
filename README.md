@@ -28,7 +28,7 @@ _Tech_: Next.js (Edge Runtime), React 19, TypeScript, Supabase (Postgres), Redis
 ---
 
 ## 👨‍💻 About Me & My Stack
-* Current Work: Serving as a Founding Engineer (Contract) at Tracius, where I am architecting a multi-tenant, GS1-compliant (EPCIS 2.0) traceability platform using NestJS, AWS Cognito, and a Turborepo monorepo.
+* Current Work: Serving as a Founding Engineer (Contract) at Tracius, where I am architecting a multi-tenant, GS1-compliant (EPCIS 2.0) traceability platform using NestJS, Next.js and a Turborepo monorepo.
 * Core Stack: TypeScript, React, Next.js, Node.js, NestJS, GraphQL, PostgreSQL, Redis, AWS, Azure, Docker, Zustand, Recharts, Leaflet.
 * Education & Certs:
   * Pursuing M.S. in Software Engineering @ Western Governors University (Exp. 2026).
