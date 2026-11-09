@@ -19,7 +19,9 @@ interactive maps, excursion alerts, and compliance analytics. Delivers **4,500+ 
 concurrent clients at sub-350ms p95**, with Recharts views over 100K+ data points and a Node.js
 simulation engine that generates synthetic sensor data to stress-test the UI.
 
-![ColdTrace Screenshot](./public/coldtrace_eyecatch.png)
+[![ColdTrace demo: a temperature excursion appears live on the map and as an alert](./public/coldtrace_demo.gif)](https://www.utoker.com/projects/coldtrace)
+
+▶️ [Watch the full 1-minute demo](https://www.utoker.com/projects/coldtrace)
 
 _Tech_: Next.js 15, React 19, TypeScript, Apollo GraphQL (WebSocket subscriptions), Prisma, PostgreSQL, Recharts, Leaflet, Turborepo, Docker
 &nbsp;·&nbsp; [Repo](https://github.com/utoker/coldtrace)
