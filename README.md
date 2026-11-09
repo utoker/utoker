@@ -12,7 +12,7 @@ React and Node ecosystems.
 
 ## 🚀 Featured Projects
 
-### [ColdTrace](https://coldtrace.app/) — Real-time IoT Cold-Chain Monitoring
+### [ColdTrace](https://www.utoker.com/projects/coldtrace) — Real-time IoT Cold-Chain Monitoring
 
 A vaccine cold-chain monitoring platform that streams live sensor telemetry to a dashboard with
 interactive maps, excursion alerts, and compliance analytics. Delivers **4,500+ messages/sec to 30
@@ -21,7 +21,7 @@ simulation engine that generates synthetic sensor data to stress-test the UI.
 
 [![ColdTrace demo: a temperature excursion appears live on the map and as an alert](./public/coldtrace_demo.gif)](https://www.utoker.com/projects/coldtrace)
 
-▶️ [Watch the full 1-minute demo](https://www.utoker.com/projects/coldtrace)
+▶️ [Watch the full 1-minute demo](https://www.utoker.com/projects/coldtrace) &nbsp;·&nbsp; _Archived: the live site is retired._
 
 _Tech_: Next.js 15, React 19, TypeScript, Apollo GraphQL (WebSocket subscriptions), Prisma, PostgreSQL, Recharts, Leaflet, Turborepo, Docker
 &nbsp;·&nbsp; [Repo](https://github.com/utoker/coldtrace)
@@ -65,7 +65,7 @@ automatic tier selection that caps any range query to 200–2,000 points regardl
 _Tech_: Python, FastAPI, Pydantic, Uvicorn, SQLite, Raspberry Pi 4
 &nbsp;·&nbsp; [Repo](https://github.com/utoker/airmon)
 
-Deployment for airmon and ColdTrace runs on my own hardware via
+Deployment for airmon runs on my own hardware via
 [**homelab**](https://github.com/utoker/homelab) — systemd units, a Caddy reverse proxy for custom
 subdomains, a dynamic-DNS updater, and backup/restore scripts.
 
